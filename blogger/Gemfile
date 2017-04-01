@@ -35,6 +35,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'paperclip'
   # A library that manages file attachments and uploading.
 
+gem 'sorcery'
+  # A lightweight, functional authentication service gem.
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
